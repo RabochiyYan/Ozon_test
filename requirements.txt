@@ -4,3 +4,6 @@ numpy
 scikit-learn
 lightgbm
 matplotlib
+seaborm
+missingno
+tqdm
